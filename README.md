@@ -1,5 +1,5 @@
 [![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=1380&t=st=1668877907~exp=1668878507~hmac=7c1fc864a9091c4f3f8d02dde1f83f3202944f256237b0c14e68f17b74d0e190)](https://www.linkedin.com/in/romain-bazin)
-<h1 align="center">Hi 👋, I'm Romain Bazin</h1>
+<h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">A passionate Machine Learning student from France / Canada</h3>
 <img align="right" alt="AI" width="400" src="https://img.freepik.com/free-vector/cute-artificial-intelligence-robot-isometric-icon_1284-63045.jpg?w=740&t=st=1668878556~exp=1668879156~hmac=ddccdf637e6f68ade3e03a5a13e7ffd05ac1b9b4b6647d739c8a3d4814f7689c">
 
