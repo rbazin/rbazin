@@ -3,13 +3,11 @@
 <h3 align="center">A passionate Machine Learning student from France / Canada</h3>
 <img align="right" alt="AI" width="400" src="https://img.freepik.com/free-vector/cute-artificial-intelligence-robot-isometric-icon_1284-63045.jpg?w=740&t=st=1668878556~exp=1668879156~hmac=ddccdf637e6f68ade3e03a5a13e7ffd05ac1b9b4b6647d739c8a3d4814f7689c">
 
-- 🔭 I’m currently working on **NLP for assistive technologies**
+- 🔭 I’m currently working on **Multimodal ML Agents for assistive technologies**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **MLOps at scale**
 
-- 👯 I’m looking to collaborate on **Open source computer vision projects**
-
-- 💬 Ask me about **ML, DL, DALL-E, BERT, Vue**
+- 💬 Ask me about **ML, DL, Computer Vision, NLU, Multimodality, Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
