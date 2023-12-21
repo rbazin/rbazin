@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOps at scale**
 
-- 💬 Ask me about **ML, DL, Computer Vision, NLU, Multimodality, Vue**
+- 💬 Ask me about **ML, DL, Computer Vision, NLU, Multimodality, LLMs, Agents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
