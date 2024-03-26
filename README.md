@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multimodal AI Agent for Chart Image Summarization**
 
-- 🌱 I’m currently learning **MLOps at scale**
+- 🌱 I’m currently learning **MLOps & Time Series Forecasting**
 
 - 💬 Ask me about **ML, DL, Computer Vision, NLU, Multimodality, LLMs, Agents**
 
