@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1RK5nMBqgHLJLH7-ddOZt4anLJ6hYCloZ)](https://www.linkedin.com/in/romain-bazin)
-
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">A passionate Machine Learning student from France / Canada</h3>
+
+<h3 align="center">A passionate Data Scientist from France <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" alt="France" width="20" height="15"/> Currently working in Canada <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ca.svg" alt="Canada" width="20" height="15"/></h3>
+
 <img align="right" alt="AI" width="400" src="https://img.freepik.com/free-vector/cute-artificial-intelligence-robot-isometric-icon_1284-63045.jpg?w=740&t=st=1668878556~exp=1668879156~hmac=ddccdf637e6f68ade3e03a5a13e7ffd05ac1b9b4b6647d739c8a3d4814f7689c">
 
 - 🔭 I’m currently working on **Unsupervised NLP for feedback analysis**
