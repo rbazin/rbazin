@@ -60,6 +60,3 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    
 </p>
 
-<h3 align="left">Contributions:</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbazin&" alt="rbazin" /></p>
